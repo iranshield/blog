@@ -2,7 +2,7 @@
 main:
   - title: "درباره"
     url: /about/
-  - title: "تماس با من"
+  - title: "تماس با ما"
     url: /contact/
   - title: "دسته‌بندی"
     url: /tags/
